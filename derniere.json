@@ -1,0 +1,10 @@
+{
+  "suite": "2.26.1",
+  "date": "2026-11-09T19:27:28.269Z",
+  "depuis": "2.25.0",
+  "notes": [
+    "Lanterne Launcher 1.5.1 : les mises à jour peuvent aussi être déposées directement dans le dépôt GitHub (sans release), Launcher prend la plus récente."
+  ],
+  "maj": "Lanterne-Spectacle-Mise-a-jour-2.26.1.lanternemaj",
+  "taille": 42985
+}
