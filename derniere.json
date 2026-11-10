@@ -1,10 +1,11 @@
 {
-  "suite": "2.26.1",
-  "date": "2026-11-09T19:27:28.269Z",
-  "depuis": "2.25.0",
+  "suite": "2.27.0",
+  "date": "2026-11-10T17:59:11.239Z",
+  "depuis": "2.26.1",
   "notes": [
-    "Lanterne Launcher 1.5.1 : les mises à jour peuvent aussi être déposées directement dans le dépôt GitHub (sans release), Launcher prend la plus récente."
+    "Nouveau : Lanterne Tableau de bord (installation à part) voit tous les logiciels Lanterne du réseau, en lecture seule, avec la vignette des sorties image.",
+    "Tous les logiciels s'annoncent au Tableau de bord (port 7607) ; menu Contrôle › « Visible dans Lanterne Tableau de bord » pour cacher un ordinateur."
   ],
-  "maj": "Lanterne-Spectacle-Mise-a-jour-2.26.1.lanternemaj",
-  "taille": 42985
+  "maj": "Lanterne-Spectacle-Mise-a-jour-2.27.0.lanternemaj",
+  "taille": 1575236
 }
