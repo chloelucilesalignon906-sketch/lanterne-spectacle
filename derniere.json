@@ -1,11 +1,11 @@
 {
-  "suite": "2.27.0",
-  "date": "2026-11-10T17:59:11.239Z",
-  "depuis": "2.26.1",
+  "suite": "2.27.1",
+  "date": "2026-11-10T21:48:25.311Z",
+  "depuis": "2.27.0",
   "notes": [
-    "Nouveau : Lanterne Tableau de bord (installation à part) voit tous les logiciels Lanterne du réseau, en lecture seule, avec la vignette des sorties image.",
-    "Tous les logiciels s'annoncent au Tableau de bord (port 7607) ; menu Contrôle › « Visible dans Lanterne Tableau de bord » pour cacher un ordinateur."
+    "Lanterne Tableau de bord 1.1.0 peut piloter : onglet Contrôle (lecture, stop, noir, diapo, titres…) et « Tout arrêter », sans code pour le Tableau de bord seulement.",
+    "FDR et Companion gardent le code à 4 chiffres ; Contrôle › « Visible dans Lanterne Tableau de bord » décochée coupe aussi ces commandes."
   ],
-  "maj": "Lanterne-Spectacle-Mise-a-jour-2.27.0.lanternemaj",
-  "taille": 1575236
+  "maj": "Lanterne-Spectacle-Mise-a-jour-2.27.1.lanternemaj",
+  "taille": 1592850
 }
