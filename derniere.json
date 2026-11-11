@@ -1,11 +1,12 @@
 {
-  "suite": "2.27.1",
-  "date": "2026-11-10T21:48:25.311Z",
-  "depuis": "2.27.0",
+  "suite": "2.28.0",
+  "date": "2026-11-11T11:43:33.044Z",
+  "depuis": "2.27.1",
   "notes": [
-    "Lanterne Tableau de bord 1.1.0 peut piloter : onglet Contrôle (lecture, stop, noir, diapo, titres…) et « Tout arrêter », sans code pour le Tableau de bord seulement.",
-    "FDR et Companion gardent le code à 4 chiffres ; Contrôle › « Visible dans Lanterne Tableau de bord » décochée coupe aussi ces commandes."
+    "Liaison avec Banque 1.1.0 (même ordinateur) : bouton « Depuis Banque » dans Lanterne PPT, Player et Son (ta banque et les banques principales du réseau, fichiers récupérés tout seuls).",
+    "Lanterne PPT 1.5.0 : un .pptx lancé depuis Banque (écran Intervenants) s'ouvre dans PPT ; après l'écran noir « Fin du diaporama », un appui de plus cache PPT, garde les sorties au noir et revient à Banque.",
+    "Installe aussi Banque 1.1.0 pour l'écran Intervenants (zip à part)."
   ],
-  "maj": "Lanterne-Spectacle-Mise-a-jour-2.27.1.lanternemaj",
-  "taille": 1592850
+  "maj": "Lanterne-Spectacle-Mise-a-jour-2.28.0.lanternemaj",
+  "taille": 595475
 }
