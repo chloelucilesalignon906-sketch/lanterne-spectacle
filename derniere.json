@@ -1,14 +1,14 @@
 {
-  "suite": "2.29.1",
-  "date": "2026-11-11T13:46:55.945Z",
-  "depuis": "2.29.0",
+  "suite": "2.30.0",
+  "date": "2026-11-11T14:10:39.497Z",
+  "depuis": "2.29.1",
   "notes": [
-    "Lanterne Spectacle 2.29.1 : NDI plus fluide, moins de retard.",
-    "- Lanterne PPT 1.6.1 : image NDI préparée par la carte graphique (UYVY, deux fois moins de données), une animation ne ralentit plus PPT ; réglage « Qualité NDI » (1080p ou 720p, 30 ou 25 i/s).",
-    "- Lanterne Infodécor 1.6.1 et Lanterne Player 1.7.1 : réception NDI 2,5 fois plus légère, images en retard sautées ; Infodécor affiche i/s reçues et retard.",
-    "- Lanterne Cam 1.2.2 : images NDI en retard sautées.",
-    "Câble Ethernet conseillé pour le NDI ; en Wi-Fi, choisir 720p."
+    "Lanterne Spectacle 2.30.0 : image de Lanterne PPT vers un autre ordinateur, en léger.",
+    "- Lanterne PPT 1.7.0 : « Image pour les autres ordinateurs (flux Lanterne, léger) » sous Sorties : H.264, 8 à 15 Mb/s (7 à 10 fois moins que le NDI).",
+    "- Lanterne Infodécor 1.7.0 : source « Lanterne PPT d'un autre ordinateur » (trouvé seul sur le réseau, ou par son adresse IP).",
+    "- Lanterne Player 1.8.0 : bouton « PPT réseau » dans la banque.",
+    "Port 7608, en lecture seule (pas de code). Si le pare-feu demande d'accepter les connexions de Lanterne PPT : accepter."
   ],
-  "maj": "Lanterne-Spectacle-Mise-a-jour-2.29.1.lanternemaj",
-  "taille": 1831831
+  "maj": "Lanterne-Spectacle-Mise-a-jour-2.30.0.lanternemaj",
+  "taille": 699362
 }
