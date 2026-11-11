@@ -1,14 +1,14 @@
 {
-  "suite": "2.29.0",
-  "date": "2026-11-11T13:04:56.238Z",
-  "depuis": "2.28.0",
+  "suite": "2.29.1",
+  "date": "2026-11-11T13:46:55.945Z",
+  "depuis": "2.29.0",
   "notes": [
-    "Lanterne Spectacle 2.29.0 : NDI.",
-    "- Lanterne PPT 1.6.0 : « Sortie NDI sur le réseau » (sous Sorties) envoie la sortie principale en NDI, 1920 × 1080, 30 i/s au plus.",
-    "- Lanterne Infodécor 1.6.0 : sources « Source NDI du réseau » et « Titres de Lanterne Titrage » (avec la transparence).",
-    "- Lanterne Player 1.7.0 : bouton « NDI » dans la banque.",
-    "Sur Mac, préférer l'installateur complet 2.29.0 : il déclare à macOS la recherche des sources NDI du réseau (Bonjour) pour PPT, Infodécor et Player. Avec cette mise à jour légère, une source NDI peut ne pas apparaître dans la liste : donner alors l'adresse IP de l'ordinateur qui l'envoie."
+    "Lanterne Spectacle 2.29.1 : NDI plus fluide, moins de retard.",
+    "- Lanterne PPT 1.6.1 : image NDI préparée par la carte graphique (UYVY, deux fois moins de données), une animation ne ralentit plus PPT ; réglage « Qualité NDI » (1080p ou 720p, 30 ou 25 i/s).",
+    "- Lanterne Infodécor 1.6.1 et Lanterne Player 1.7.1 : réception NDI 2,5 fois plus légère, images en retard sautées ; Infodécor affiche i/s reçues et retard.",
+    "- Lanterne Cam 1.2.2 : images NDI en retard sautées.",
+    "Câble Ethernet conseillé pour le NDI ; en Wi-Fi, choisir 720p."
   ],
-  "maj": "Lanterne-Spectacle-Mise-a-jour-2.29.0.lanternemaj",
-  "taille": 2297822
+  "maj": "Lanterne-Spectacle-Mise-a-jour-2.29.1.lanternemaj",
+  "taille": 1831831
 }
