@@ -1,14 +1,13 @@
 {
-  "suite": "2.30.0",
-  "date": "2026-11-11T14:10:39.497Z",
-  "depuis": "2.29.1",
+  "suite": "2.30.1",
+  "date": "2026-11-12T20:52:42.987Z",
+  "depuis": "2.24.0",
   "notes": [
-    "Lanterne Spectacle 2.30.0 : image de Lanterne PPT vers un autre ordinateur, en léger.",
-    "- Lanterne PPT 1.7.0 : « Image pour les autres ordinateurs (flux Lanterne, léger) » sous Sorties : H.264, 8 à 15 Mb/s (7 à 10 fois moins que le NDI).",
-    "- Lanterne Infodécor 1.7.0 : source « Lanterne PPT d'un autre ordinateur » (trouvé seul sur le réseau, ou par son adresse IP).",
-    "- Lanterne Player 1.8.0 : bouton « PPT réseau » dans la banque.",
-    "Port 7608, en lecture seule (pas de code). Si le pare-feu demande d'accepter les connexions de Lanterne PPT : accepter."
+    "Lanterne Spectacle 2.30.1 : liaisons réseau plus sûres, mises à jour légères cumulatives.",
+    "- Image de Lanterne PPT d'un autre ordinateur (Infodécor 1.7.1, Player 1.8.1) : coupure vue en 6 s, reconnexion seule.",
+    "- Ordinateur vu par le câble et par le Wi-Fi sur deux réseaux : l'adresse ne saute plus (FDR 1.14.2 ne se reconnecte plus sans arrêt).",
+    "- Mise à jour cumulative depuis la 2.24.0 : un ordinateur en retard se met à jour d'un coup. Launcher 1.5.2 refuse une mise à jour trop récente pour la suite installée."
   ],
-  "maj": "Lanterne-Spectacle-Mise-a-jour-2.30.0.lanternemaj",
-  "taille": 699362
+  "maj": "Lanterne-Spectacle-Mise-a-jour-2.30.1.lanternemaj",
+  "taille": 3277105
 }
