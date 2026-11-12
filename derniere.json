@@ -1,13 +1,13 @@
 {
-  "suite": "2.30.1",
-  "date": "2026-11-12T20:52:42.987Z",
+  "suite": "2.31.0",
+  "date": "2026-11-12T21:26:19.672Z",
   "depuis": "2.24.0",
   "notes": [
-    "Lanterne Spectacle 2.30.1 : liaisons réseau plus sûres, mises à jour légères cumulatives.",
-    "- Image de Lanterne PPT d'un autre ordinateur (Infodécor 1.7.1, Player 1.8.1) : coupure vue en 6 s, reconnexion seule.",
-    "- Ordinateur vu par le câble et par le Wi-Fi sur deux réseaux : l'adresse ne saute plus (FDR 1.14.2 ne se reconnecte plus sans arrêt).",
-    "- Mise à jour cumulative depuis la 2.24.0 : un ordinateur en retard se met à jour d'un coup. Launcher 1.5.2 refuse une mise à jour trop récente pour la suite installée."
+    "Lanterne Spectacle 2.31.0 : skins de la suite, télécommande PowerPoint et NDI de PPT retirés.",
+    "- Six skins (Classique, Néon, Pupitre, Studio, Contraste, Verre) choisis dans Lanterne Launcher 1.6.0, appliqués tout de suite à tous les logiciels de l'ordinateur (jamais aux sorties).",
+    "- Lanterne Player 1.9.0 : télécommande PowerPoint / Keynote retirée (Lanterne PPT la remplace) ; FDR 1.15.0 et Companion 2.18.0 suivent.",
+    "- Lanterne PPT 1.8.0 : sortie NDI retirée, utiliser « Image pour les autres ordinateurs »."
   ],
-  "maj": "Lanterne-Spectacle-Mise-a-jour-2.30.1.lanternemaj",
-  "taille": 3277105
+  "maj": "Lanterne-Spectacle-Mise-a-jour-2.31.0.lanternemaj",
+  "taille": 6872827
 }
