@@ -1,12 +1,13 @@
 {
-  "suite": "2.31.1",
-  "date": "2026-11-12T21:37:34.386Z",
+  "suite": "2.32.0",
+  "date": "2026-11-13T06:21:53.592Z",
   "depuis": "2.24.0",
   "notes": [
-    "Lanterne Spectacle 2.31.1 : le Launcher se met à jour lui-même sur Mac.",
-    "- Lanterne Launcher 1.6.1 : sur Mac, il se sautait lui-même à chaque mise à jour légère (il ne se voyait pas installé). Corrigé.",
-    "- Contient tout ce qui a changé depuis la 2.24.0 (skins de la 2.31.0 compris)."
+    "Lanterne Spectacle 2.32.0 : quatre nouveaux skins.",
+    "- Terminal, Théâtre, Océan et Papier s'ajoutent dans Lanterne Launcher 1.7.0 (bouton Skin) : dix skins en tout.",
+    "- Skin Studio : onglet choisi de Cam, Infodécor et Son de nouveau lisible.",
+    "- Sur Mac, un Launcher 1.6.0 ou plus ancien ne se met pas à jour lui-même : passer une fois par « Mettre à jour Lanterne Launcher.command »."
   ],
-  "maj": "Lanterne-Spectacle-Mise-a-jour-2.31.1.lanternemaj",
-  "taille": 6872721
+  "maj": "Lanterne-Spectacle-Mise-a-jour-2.32.0.lanternemaj",
+  "taille": 9463143
 }
