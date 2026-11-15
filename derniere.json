@@ -1,13 +1,13 @@
 {
-  "suite": "2.32.0",
-  "date": "2026-11-13T06:21:53.592Z",
+  "suite": "2.33.0",
+  "date": "2026-11-15T14:35:54.641Z",
   "depuis": "2.24.0",
   "notes": [
-    "Lanterne Spectacle 2.32.0 : quatre nouveaux skins.",
-    "- Terminal, Théâtre, Océan et Papier s'ajoutent dans Lanterne Launcher 1.7.0 (bouton Skin) : dix skins en tout.",
-    "- Skin Studio : onglet choisi de Cam, Infodécor et Son de nouveau lisible.",
-    "- Sur Mac, un Launcher 1.6.0 ou plus ancien ne se met pas à jour lui-même : passer une fois par « Mettre à jour Lanterne Launcher.command »."
+    "Lanterne Spectacle 2.33.0 : onglet Playlist dans Lanterne Son 1.4.0.",
+    "- Plusieurs musiques lues à la suite ; « Répéter toute la playlist » repart de la première après la dernière.",
+    "- Pause, précédente / suivante, ordre par glisser, volume, fondu enchaîné, fondu à l'arrêt ; Fondu de tout et Tout arrêter s'y appliquent.",
+    "- Enregistrée avec le cartouchier."
   ],
-  "maj": "Lanterne-Spectacle-Mise-a-jour-2.32.0.lanternemaj",
-  "taille": 9463143
+  "maj": "Lanterne-Spectacle-Mise-a-jour-2.33.0.lanternemaj",
+  "taille": 9471380
 }
