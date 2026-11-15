@@ -1,0 +1,17 @@
+{
+  "version": "1.3.0",
+  "date": "2026-11-15",
+  "notes": [
+    "Mises à jour depuis GitHub : Banque prévient à l'ouverture qu'une nouvelle version existe et l'installe en un clic",
+    "Réglages › Mises à jour : chercher maintenant, ne plus chercher à l'ouverture, revenir à la version d'avant",
+    "Plusieurs listes d'intervenants nommées (depuis 1.2.0)"
+  ],
+  "maj": "Banque-1.3.0.banquemaj",
+  "taille": 105791,
+  "moteur": "44",
+  "zips": [
+    "Banque-Installation-Mac-1.3.0.zip",
+    "Banque-Installation-Mac-Intel-1.3.0.zip",
+    "Banque-Installation-Windows-1.3.0.zip"
+  ]
+}
