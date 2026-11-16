@@ -1,13 +1,13 @@
 {
-  "suite": "2.34.0",
-  "date": "2026-11-16T15:10:55.707Z",
+  "suite": "2.35.0",
+  "date": "2026-11-16T16:36:57.243Z",
   "depuis": "2.24.0",
   "notes": [
-    "Lanterne Spectacle 2.34.0 : FDR pilote la playlist de Lanterne Son.",
-    "- Cues Son « Playlist » dans FDR 1.16.0 : lancer, lancer à une musique, depuis la première, pause, suivante, arrêter ; Stop l'arrête aussi.",
-    "- Lanterne Son 1.5.0 reçoit ces commandes (FDR, Companion).",
-    "- Module Companion 2.19.0 (zip complet) : actions, retours, variables et boutons playlist."
+    "Lanterne Spectacle 2.35.0 : cache-bureau dans Lanterne Launcher.",
+    "- Lanterne Launcher 1.8.0 : bouton « Cache-bureau ». Une image (JPEG, PNG) ou la première diapo d'un PowerPoint sur une sortie, à la place du bureau ; les logiciels passent par-dessus.",
+    "- La même image devient le fond d'écran de cette sortie seulement (l'écran principal ne change jamais) ; l'ancien fond revient quand on désactive.",
+    "- La diapo est dessinée par le moteur de Lanterne PPT : PowerPoint n'est pas nécessaire."
   ],
-  "maj": "Lanterne-Spectacle-Mise-a-jour-2.34.0.lanternemaj",
-  "taille": 9472845
+  "maj": "Lanterne-Spectacle-Mise-a-jour-2.35.0.lanternemaj",
+  "taille": 9497211
 }
