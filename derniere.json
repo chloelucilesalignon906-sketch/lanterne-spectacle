@@ -1,16 +1,16 @@
 {
-  "version": "1.4.0",
+  "version": "1.5.0",
   "date": "2026-11-16",
   "notes": [
-    "Onglets dans Ma banque : un par salle, par lieu (créer, renommer, glisser des fichiers dessus pour les y ranger)",
-    "Les autres ordinateurs voient les onglets d'une banque principale ; récupérer depuis un onglet le crée aussi dans leur banque"
+    "Banque reste ouverte en tâche de fond : fermer la fenêtre ne la quitte plus (icône dans la barre des menus ou près de l'horloge pour la rouvrir ou la quitter)",
+    "Banque s'ouvre toute seule au démarrage du Mac ou du PC, sans fenêtre (Réglages pour changer)"
   ],
-  "maj": "Banque-1.4.0.banquemaj",
-  "taille": 114166,
+  "maj": "Banque-1.5.0.banquemaj",
+  "taille": 122029,
   "moteur": "44",
   "zips": [
-    "Banque-Installation-Mac-1.4.0.zip",
-    "Banque-Installation-Mac-Intel-1.4.0.zip",
-    "Banque-Installation-Windows-1.4.0.zip"
+    "Banque-Installation-Mac-1.5.0.zip",
+    "Banque-Installation-Mac-Intel-1.5.0.zip",
+    "Banque-Installation-Windows-1.5.0.zip"
   ]
 }
