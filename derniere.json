@@ -1,13 +1,13 @@
 {
-  "suite": "2.33.0",
-  "date": "2026-11-15T14:35:54.641Z",
+  "suite": "2.34.0",
+  "date": "2026-11-16T15:10:55.707Z",
   "depuis": "2.24.0",
   "notes": [
-    "Lanterne Spectacle 2.33.0 : onglet Playlist dans Lanterne Son 1.4.0.",
-    "- Plusieurs musiques lues à la suite ; « Répéter toute la playlist » repart de la première après la dernière.",
-    "- Pause, précédente / suivante, ordre par glisser, volume, fondu enchaîné, fondu à l'arrêt ; Fondu de tout et Tout arrêter s'y appliquent.",
-    "- Enregistrée avec le cartouchier."
+    "Lanterne Spectacle 2.34.0 : FDR pilote la playlist de Lanterne Son.",
+    "- Cues Son « Playlist » dans FDR 1.16.0 : lancer, lancer à une musique, depuis la première, pause, suivante, arrêter ; Stop l'arrête aussi.",
+    "- Lanterne Son 1.5.0 reçoit ces commandes (FDR, Companion).",
+    "- Module Companion 2.19.0 (zip complet) : actions, retours, variables et boutons playlist."
   ],
-  "maj": "Lanterne-Spectacle-Mise-a-jour-2.33.0.lanternemaj",
-  "taille": 9471380
+  "maj": "Lanterne-Spectacle-Mise-a-jour-2.34.0.lanternemaj",
+  "taille": 9472845
 }
