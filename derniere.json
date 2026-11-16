@@ -1,13 +1,12 @@
 {
-  "suite": "2.35.0",
-  "date": "2026-11-16T16:36:57.243Z",
+  "suite": "2.35.1",
+  "date": "2026-11-16T16:50:11.181Z",
   "depuis": "2.24.0",
   "notes": [
-    "Lanterne Spectacle 2.35.0 : cache-bureau dans Lanterne Launcher.",
-    "- Lanterne Launcher 1.8.0 : bouton « Cache-bureau ». Une image (JPEG, PNG) ou la première diapo d'un PowerPoint sur une sortie, à la place du bureau ; les logiciels passent par-dessus.",
-    "- La même image devient le fond d'écran de cette sortie seulement (l'écran principal ne change jamais) ; l'ancien fond revient quand on désactive.",
-    "- La diapo est dessinée par le moteur de Lanterne PPT : PowerPoint n'est pas nécessaire."
+    "Lanterne Spectacle 2.35.1 : le cache-bureau prend aussi un fichier dans Banque.",
+    "- Lanterne Launcher 1.8.1 : bouton « Depuis Banque… » dans le Cache-bureau (ta banque ou une banque du réseau).",
+    "- Rappel 2.35.0 : une image ou la première diapo d'un PowerPoint sur une sortie, à la place du bureau, et en fond d'écran de cette sortie seulement."
   ],
-  "maj": "Lanterne-Spectacle-Mise-a-jour-2.35.0.lanternemaj",
-  "taille": 9497211
+  "maj": "Lanterne-Spectacle-Mise-a-jour-2.35.1.lanternemaj",
+  "taille": 9511284
 }
