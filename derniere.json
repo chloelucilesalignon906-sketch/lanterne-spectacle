@@ -1,12 +1,13 @@
 {
-  "suite": "2.35.1",
-  "date": "2026-11-16T16:50:11.181Z",
+  "suite": "2.36.0",
+  "date": "2026-11-17T09:02:23.544Z",
   "depuis": "2.24.0",
   "notes": [
-    "Lanterne Spectacle 2.35.1 : le cache-bureau prend aussi un fichier dans Banque.",
-    "- Lanterne Launcher 1.8.1 : bouton « Depuis Banque… » dans le Cache-bureau (ta banque ou une banque du réseau).",
-    "- Rappel 2.35.0 : une image ou la première diapo d'un PowerPoint sur une sortie, à la place du bureau, et en fond d'écran de cette sortie seulement."
+    "Lanterne Spectacle 2.36.0 : Lanterne Mélangeur 1.5.0, vumètres, zoom dans l'image et onglet Média.",
+    "- Console son : vumètre en direct et potentiomètre pour chaque source (ATEM), vumètre du programme par l'entrée son USB du GoStream.",
+    "- Super Source : zoom et dézoom de l'image dans une fenêtre, qui reste en place (ATEM, GoStream Duet 8 ISO).",
+    "- Onglet Média : images de MP 1 et MP 2 ; avec un ATEM, une image glissée part dans le mélangeur."
   ],
-  "maj": "Lanterne-Spectacle-Mise-a-jour-2.35.1.lanternemaj",
-  "taille": 9511284
+  "maj": "Lanterne-Spectacle-Mise-a-jour-2.36.0.lanternemaj",
+  "taille": 9527502
 }
