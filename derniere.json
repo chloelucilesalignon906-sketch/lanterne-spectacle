@@ -1,16 +1,17 @@
 {
-  "version": "1.4.0",
+  "version": "1.5.0",
   "date": "2026-11-17",
   "notes": [
-    "Page téléphone : code QR (bouton Téléphone, Cmd/Ctrl+T), onglets Vue d’ensemble et Contrôle sur un téléphone du réseau, rien à installer",
-    "Mises à jour depuis GitHub, en un clic, avec retour à la version d’avant"
+    "Onglet Surveillance (Cmd/Ctrl+L) : les caméras Mevo en NDI ajoutées toutes seules, d’autres caméras NDI au choix",
+    "Onglet Personnalisé (Cmd/Ctrl+P) : on choisit les caméras et les sorties des logiciels Lanterne à afficher, dans l’ordre voulu, en 1 à 4 colonnes",
+    "Les deux nouveaux onglets aussi sur le téléphone"
   ],
-  "maj": "Lanterne-Tableau-de-bord-1.4.0.tableaumaj",
-  "taille": 563962,
+  "maj": "Lanterne-Tableau-de-bord-1.5.0.tableaumaj",
+  "taille": 12853049,
   "moteur": "44",
   "zips": [
-    "Lanterne-Tableau-de-bord-Installation-Mac-1.4.0.zip",
-    "Lanterne-Tableau-de-bord-Installation-Mac-Intel-1.4.0.zip",
-    "Lanterne-Tableau-de-bord-Installation-Windows-1.4.0.zip"
+    "Lanterne-Tableau-de-bord-Installation-Mac-1.5.0.zip",
+    "Lanterne-Tableau-de-bord-Installation-Mac-Intel-1.5.0.zip",
+    "Lanterne-Tableau-de-bord-Installation-Windows-1.5.0.zip"
   ]
 }
