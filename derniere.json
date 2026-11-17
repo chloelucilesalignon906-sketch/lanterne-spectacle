@@ -1,0 +1,16 @@
+{
+  "version": "1.4.0",
+  "date": "2026-11-17",
+  "notes": [
+    "Page téléphone : code QR (bouton Téléphone, Cmd/Ctrl+T), onglets Vue d’ensemble et Contrôle sur un téléphone du réseau, rien à installer",
+    "Mises à jour depuis GitHub, en un clic, avec retour à la version d’avant"
+  ],
+  "maj": "Lanterne-Tableau-de-bord-1.4.0.tableaumaj",
+  "taille": 563962,
+  "moteur": "44",
+  "zips": [
+    "Lanterne-Tableau-de-bord-Installation-Mac-1.4.0.zip",
+    "Lanterne-Tableau-de-bord-Installation-Mac-Intel-1.4.0.zip",
+    "Lanterne-Tableau-de-bord-Installation-Windows-1.4.0.zip"
+  ]
+}
