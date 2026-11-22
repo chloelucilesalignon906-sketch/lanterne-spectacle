@@ -1,0 +1,5 @@
+{
+ "type": "prise-maj",
+ "payload": "{\"type\":\"prise-maj\",\"version\":\"1.5.0\",\"arch\":\"arm64\",\"zip\":\"Prise-1.5.0-arm64.zip\",\"sha256\":\"f3fcfa4475e63518db986b6ca99cd9214534dad44dd5ebcc40d252a0cca8aaee\",\"taille\":1023368}",
+ "sig": "ni9VY+14dimCcPm/WSD9DQNHQoHwEYeOjNpSlBOjDkkHaHXF7tbDFHp86PevFlk8Mb9hn0aS4qYDQxpEgKkeBg=="
+}
