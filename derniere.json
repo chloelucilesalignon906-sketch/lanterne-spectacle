@@ -1,14 +1,14 @@
 {
-  "suite": "2.37.0",
-  "date": "2026-11-17T20:12:40.360Z",
+  "suite": "2.38.0",
+  "date": "2026-11-22T22:43:42.061Z",
   "depuis": "2.24.0",
   "notes": [
-    "Lanterne Spectacle 2.37.0 : Lanterne VP 1.3.0 pilote maintenant plusieurs marques de vidéoprojecteurs.",
-    "- Christie : série M, Roadster, Mirage, J, Boxer, Griffyn, 4K, M RGB (comme avant), et GS, HS, Captiva, D-Series.",
-    "- Barco (plateforme Pulse : F70, F80, F90, G62, UDX, UDM, I600…) : sources et mires lues dans le projecteur, objectif, laser.",
-    "- Panasonic (avec mot de passe), Epson (ESC/VP.net) et toutes les marques PJLink (Sony, NEC/Sharp, Canon, Optoma…).",
-    "- Choisis la marque dans la fiche du projecteur : sources, mires, touches et réglages s'adaptent."
+    "Lanterne Spectacle 2.38.0 : Lanterne Cam 1.4.0 pilote les caméras PTZ (Tenveo…), et Lanterne VP 1.3.0 multi-marques (2.37.0).",
+    "- Caméras… › « Pilotage PTZ » : coche « Piloter », l'adresse IP vient de la source NDI.",
+    "- Onglet PTZ : manette, flèches, zoom, mise au point, 16 presets, exposition, balance des blancs, image, suivi automatique.",
+    "- Companion 2.20.0 : touches « Cam PTZ » pour le Stream Deck (bouger, zoom, mise au point, presets).",
+    "- Lanterne VP 1.3.0 : Christie, Barco, Panasonic, Epson et projecteurs PJLink."
   ],
-  "maj": "Lanterne-Spectacle-Mise-a-jour-2.37.0.lanternemaj",
-  "taille": 9550215
+  "maj": "Lanterne-Spectacle-Mise-a-jour-2.38.0.lanternemaj",
+  "taille": 9574920
 }
