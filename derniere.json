@@ -1,0 +1,16 @@
+{
+  "version": "1.4.0",
+  "date": "2026-11-23",
+  "notes": [
+    "Écrans Samsung pro sans boîtier (Smart Signage, par ex. QE75T) : bouton « + Samsung », l’écran ouvre une page servie par cet ordinateur",
+    "Mises à jour depuis GitHub : bandeau quand une nouvelle version existe, retour possible"
+  ],
+  "maj": "Ecran-Hall-1.4.0.ecranhallmaj",
+  "taille": 5202686,
+  "moteur": "44",
+  "zips": [
+    "Ecran-Hall-Installation-Mac-1.4.0.zip",
+    "Ecran-Hall-Installation-Mac-Intel-1.4.0.zip",
+    "Ecran-Hall-Installation-Windows-1.4.0.zip"
+  ]
+}
