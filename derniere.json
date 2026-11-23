@@ -1,15 +1,15 @@
 {
-  "version": "1.4.2",
+  "version": "1.4.3",
   "date": "2026-11-23",
   "notes": [
-    "Qeedji : les vidéos s’affichent (le boîtier dessine la vidéo sous la page, qui devient transparente pendant une vidéo)"
+    "Qeedji : les vidéos sont tournées (télé verticale, bouton ⟳) : la rotation est écrite dans le fichier vidéo envoyé"
   ],
-  "maj": "Ecran-Hall-1.4.2.ecranhallmaj",
-  "taille": 5207287,
+  "maj": "Ecran-Hall-1.4.3.ecranhallmaj",
+  "taille": 5211487,
   "moteur": "44",
   "zips": [
-    "Ecran-Hall-Installation-Mac-1.4.2.zip",
-    "Ecran-Hall-Installation-Mac-Intel-1.4.2.zip",
-    "Ecran-Hall-Installation-Windows-1.4.2.zip"
+    "Ecran-Hall-Installation-Mac-1.4.3.zip",
+    "Ecran-Hall-Installation-Mac-Intel-1.4.3.zip",
+    "Ecran-Hall-Installation-Windows-1.4.3.zip"
   ]
 }
