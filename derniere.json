@@ -1,15 +1,15 @@
 {
-  "version": "1.4.4",
+  "version": "1.4.5",
   "date": "2026-11-23",
   "notes": [
-    "Qeedji : la vidéo est maintenant tournée pour de bon (télé verticale et bouton ⟳) : Écran Hall la réencode déjà tournée avant l'envoi, sans le son. Rien à régler dans la console du Qeedji. L'envoi prend à peu près la durée de la vidéo."
+    "Qeedji : la vidéo tournée reprend « Entière (bandes) » ou « Remplir (bords coupés) » et la couleur des bandes. Elle marche que la sortie du boîtier soit à 0° ou déjà tournée dans sa console."
   ],
-  "maj": "Ecran-Hall-1.4.4.ecranhallmaj",
-  "taille": 5214413,
+  "maj": "Ecran-Hall-1.4.5.ecranhallmaj",
+  "taille": 5215969,
   "moteur": "44",
   "zips": [
-    "Ecran-Hall-Installation-Mac-1.4.4.zip",
-    "Ecran-Hall-Installation-Mac-Intel-1.4.4.zip",
-    "Ecran-Hall-Installation-Windows-1.4.4.zip"
+    "Ecran-Hall-Installation-Mac-1.4.5.zip",
+    "Ecran-Hall-Installation-Mac-Intel-1.4.5.zip",
+    "Ecran-Hall-Installation-Windows-1.4.5.zip"
   ]
 }
