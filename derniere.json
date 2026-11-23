@@ -1,16 +1,15 @@
 {
-  "version": "1.4.1",
+  "version": "1.4.2",
   "date": "2026-11-23",
   "notes": [
-    "Pause du diaporama (écrans cochés ou un seul écran) et diapo choisie montrée tout de suite (bouton « À l’écran » sur une vignette)",
-    "Vidéos : format vérifié (HEVC, ProRes, H.264 10 bits signalés) ; une vidéo que la télé ne lit pas affiche la raison puis passe à la suite"
+    "Qeedji : les vidéos s’affichent (le boîtier dessine la vidéo sous la page, qui devient transparente pendant une vidéo)"
   ],
-  "maj": "Ecran-Hall-1.4.1.ecranhallmaj",
-  "taille": 5207101,
+  "maj": "Ecran-Hall-1.4.2.ecranhallmaj",
+  "taille": 5207287,
   "moteur": "44",
   "zips": [
-    "Ecran-Hall-Installation-Mac-1.4.1.zip",
-    "Ecran-Hall-Installation-Mac-Intel-1.4.1.zip",
-    "Ecran-Hall-Installation-Windows-1.4.1.zip"
+    "Ecran-Hall-Installation-Mac-1.4.2.zip",
+    "Ecran-Hall-Installation-Mac-Intel-1.4.2.zip",
+    "Ecran-Hall-Installation-Windows-1.4.2.zip"
   ]
 }
