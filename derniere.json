@@ -1,14 +1,14 @@
 {
-  "suite": "2.39.0",
-  "date": "2026-11-24T17:08:16.014Z",
+  "suite": "2.39.1",
+  "date": "2026-11-24T19:03:12.724Z",
   "depuis": "2.24.0",
   "notes": [
-    "Lanterne Spectacle 2.39.0 : Titrage dans Lanterne Player et mode présentateur dans Lanterne PPT.",
-    "- Player 1.10.0 : bouton « Titrage » (⌘⇧T) : Titrage de cet ordinateur ou d'un autre (avec son code), sorties à cocher, titres envoyés d'un clic.",
-    "- Les titres sont dessinés sur les sorties de Player avec leur transparence (couche alpha) et leurs animations.",
-    "- PPT 1.9.0 : sortie « Mode présentateur » : diapo en cours, diapo suivante, notes, heure, chrono et numéro de diapo.",
-    "- « Disposition… » : zones à déplacer et agrandir à la souris, modèles, taille du texte des notes."
+    "Lanterne Spectacle 2.39.1 : titres seuls avec la couche alpha pour l'ATEM, et manette de jeu dans Lanterne Cam.",
+    "- Player 1.10.1 : deux sorties « Titres seuls » : remplissage (titres sur noir) et clé (alpha en noir et blanc) pour la clé aval de l'ATEM.",
+    "- Fenêtre Titrage : « Préparer 2 sorties remplissage + clé ».",
+    "- Cam 1.5.0 : bouton « Auto » (mise au point automatique oui / non) dans l'onglet PTZ.",
+    "- Cam 1.5.0 : manette PS4 / PS5 / Xbox pour piloter la caméra, boutons à choisir dans « Manette… »."
   ],
-  "maj": "Lanterne-Spectacle-Mise-a-jour-2.39.0.lanternemaj",
-  "taille": 9590658
+  "maj": "Lanterne-Spectacle-Mise-a-jour-2.39.1.lanternemaj",
+  "taille": 9598294
 }
