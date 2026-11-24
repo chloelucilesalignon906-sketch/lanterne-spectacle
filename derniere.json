@@ -1,14 +1,14 @@
 {
-  "suite": "2.39.1",
-  "date": "2026-11-24T19:03:12.724Z",
+  "suite": "2.40.0",
+  "date": "2026-11-24T20:49:40.568Z",
   "depuis": "2.24.0",
   "notes": [
-    "Lanterne Spectacle 2.39.1 : titres seuls avec la couche alpha pour l'ATEM, et manette de jeu dans Lanterne Cam.",
-    "- Player 1.10.1 : deux sorties « Titres seuls » : remplissage (titres sur noir) et clé (alpha en noir et blanc) pour la clé aval de l'ATEM.",
-    "- Fenêtre Titrage : « Préparer 2 sorties remplissage + clé ».",
-    "- Cam 1.5.0 : bouton « Auto » (mise au point automatique oui / non) dans l'onglet PTZ.",
-    "- Cam 1.5.0 : manette PS4 / PS5 / Xbox pour piloter la caméra, boutons à choisir dans « Manette… »."
+    "Lanterne Spectacle 2.40.0 : Titrage dans la banque de Player, et manette PS4 / PS5 qui pilote Lanterne Cam même en arrière-plan.",
+    "- Player 1.11.0 : bouton « Titrage » dans la banque : la sortie de Lanterne Titrage comme un clip (programme, timeline), fond noir · couche alpha, vert ou bleu.",
+    "- Cam 1.6.0 : manette PS4 / PS5 lue directement : elle pilote les caméras même quand une autre application est au premier plan.",
+    "- Cam 1.6.0 : « Vitesse point » jusqu'à 8 (turbo) ; Options / Share = vitesse du point + / −.",
+    "- Cam 1.6.0 : glisser sur le pavé tactile = exposition plus claire / plus sombre (ou obturation, au choix dans « Manette… »)."
   ],
-  "maj": "Lanterne-Spectacle-Mise-a-jour-2.39.1.lanternemaj",
-  "taille": 9598294
+  "maj": "Lanterne-Spectacle-Mise-a-jour-2.40.0.lanternemaj",
+  "taille": 10066263
 }
