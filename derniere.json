@@ -1,14 +1,14 @@
 {
-  "suite": "2.38.0",
-  "date": "2026-11-22T22:43:42.061Z",
+  "suite": "2.39.0",
+  "date": "2026-11-24T17:08:16.014Z",
   "depuis": "2.24.0",
   "notes": [
-    "Lanterne Spectacle 2.38.0 : Lanterne Cam 1.4.0 pilote les caméras PTZ (Tenveo…), et Lanterne VP 1.3.0 multi-marques (2.37.0).",
-    "- Caméras… › « Pilotage PTZ » : coche « Piloter », l'adresse IP vient de la source NDI.",
-    "- Onglet PTZ : manette, flèches, zoom, mise au point, 16 presets, exposition, balance des blancs, image, suivi automatique.",
-    "- Companion 2.20.0 : touches « Cam PTZ » pour le Stream Deck (bouger, zoom, mise au point, presets).",
-    "- Lanterne VP 1.3.0 : Christie, Barco, Panasonic, Epson et projecteurs PJLink."
+    "Lanterne Spectacle 2.39.0 : Titrage dans Lanterne Player et mode présentateur dans Lanterne PPT.",
+    "- Player 1.10.0 : bouton « Titrage » (⌘⇧T) : Titrage de cet ordinateur ou d'un autre (avec son code), sorties à cocher, titres envoyés d'un clic.",
+    "- Les titres sont dessinés sur les sorties de Player avec leur transparence (couche alpha) et leurs animations.",
+    "- PPT 1.9.0 : sortie « Mode présentateur » : diapo en cours, diapo suivante, notes, heure, chrono et numéro de diapo.",
+    "- « Disposition… » : zones à déplacer et agrandir à la souris, modèles, taille du texte des notes."
   ],
-  "maj": "Lanterne-Spectacle-Mise-a-jour-2.38.0.lanternemaj",
-  "taille": 9574920
+  "maj": "Lanterne-Spectacle-Mise-a-jour-2.39.0.lanternemaj",
+  "taille": 9590658
 }
