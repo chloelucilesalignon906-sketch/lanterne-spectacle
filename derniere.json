@@ -1,12 +1,11 @@
 {
-  "suite": "2.40.1",
-  "date": "2026-11-24T21:20:13.580Z",
+  "suite": "2.40.2",
+  "date": "2026-11-24T21:43:11.250Z",
   "depuis": "2.24.0",
   "notes": [
-    "Lanterne Spectacle 2.40.1 : remise à zéro de l'exposition et iris au pavé tactile de la manette.",
-    "- Cam 1.6.1 : un appui court sur le pavé tactile de la manette PS4 / PS5 remet l'exposition à zéro.",
-    "- Cam 1.6.1 : le pavé tactile peut régler l'iris (au choix dans « Manette… »)."
+    "Lanterne Spectacle 2.40.2 : lumières de la caméra dans Lanterne Cam.",
+    "- Cam 1.6.2 : onglet PTZ, « Lumières de la caméra » Allumées / Éteintes (caméras Tenveo), aussi à la manette."
   ],
-  "maj": "Lanterne-Spectacle-Mise-a-jour-2.40.1.lanternemaj",
-  "taille": 10066596
+  "maj": "Lanterne-Spectacle-Mise-a-jour-2.40.2.lanternemaj",
+  "taille": 10068545
 }
