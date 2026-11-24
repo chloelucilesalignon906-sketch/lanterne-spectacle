@@ -1,11 +1,11 @@
 {
-  "suite": "2.40.2",
-  "date": "2026-11-24T21:43:11.250Z",
+  "suite": "2.40.3",
+  "date": "2026-11-24T22:17:33.761Z",
   "depuis": "2.24.0",
   "notes": [
-    "Lanterne Spectacle 2.40.2 : lumières de la caméra dans Lanterne Cam.",
-    "- Cam 1.6.2 : onglet PTZ, « Lumières de la caméra » Allumées / Éteintes (caméras Tenveo), aussi à la manette."
+    "Lanterne Spectacle 2.40.3 : le point est refait après chaque zoom dans Lanterne Cam.",
+    "- Cam 1.6.3 : à la fin d'un zoom, mise au point « une fois » sur le centre de l'image (case pour l'enlever)."
   ],
-  "maj": "Lanterne-Spectacle-Mise-a-jour-2.40.2.lanternemaj",
-  "taille": 10068545
+  "maj": "Lanterne-Spectacle-Mise-a-jour-2.40.3.lanternemaj",
+  "taille": 10068962
 }
