@@ -1,14 +1,12 @@
 {
-  "suite": "2.40.0",
-  "date": "2026-11-24T20:49:40.568Z",
+  "suite": "2.40.1",
+  "date": "2026-11-24T21:20:13.580Z",
   "depuis": "2.24.0",
   "notes": [
-    "Lanterne Spectacle 2.40.0 : Titrage dans la banque de Player, et manette PS4 / PS5 qui pilote Lanterne Cam même en arrière-plan.",
-    "- Player 1.11.0 : bouton « Titrage » dans la banque : la sortie de Lanterne Titrage comme un clip (programme, timeline), fond noir · couche alpha, vert ou bleu.",
-    "- Cam 1.6.0 : manette PS4 / PS5 lue directement : elle pilote les caméras même quand une autre application est au premier plan.",
-    "- Cam 1.6.0 : « Vitesse point » jusqu'à 8 (turbo) ; Options / Share = vitesse du point + / −.",
-    "- Cam 1.6.0 : glisser sur le pavé tactile = exposition plus claire / plus sombre (ou obturation, au choix dans « Manette… »)."
+    "Lanterne Spectacle 2.40.1 : remise à zéro de l'exposition et iris au pavé tactile de la manette.",
+    "- Cam 1.6.1 : un appui court sur le pavé tactile de la manette PS4 / PS5 remet l'exposition à zéro.",
+    "- Cam 1.6.1 : le pavé tactile peut régler l'iris (au choix dans « Manette… »)."
   ],
-  "maj": "Lanterne-Spectacle-Mise-a-jour-2.40.0.lanternemaj",
-  "taille": 10066263
+  "maj": "Lanterne-Spectacle-Mise-a-jour-2.40.1.lanternemaj",
+  "taille": 10066596
 }
