@@ -1,13 +1,12 @@
 {
-  "suite": "2.41.1",
-  "date": "2026-11-25T11:13:47.404Z",
+  "suite": "2.41.2",
+  "date": "2026-11-25T11:43:23.905Z",
   "depuis": "2.24.0",
   "notes": [
-    "Lanterne Spectacle 2.41.1 : moins de calcul pour rien, surtout sous Windows.",
-    "- Timer 1.2.3, Prompteur 1.2.2, Titrage 1.5.2, Infodécor 1.9.1, Rec et Stream 1.3.2 : l'image n'est plus redessinée quand rien ne bouge (processeur au repos divisé par 3 à 10).",
-    "- Infodécor : image recomposée au rythme des sources ; Player 1.11.2 : prévisu redessinée seulement quand elle change.",
-    "- Windows, portable à deux cartes graphiques : la plus puissante est utilisée (PPT 1.9.2, Cam 1.6.5…)."
+    "Lanterne Spectacle 2.41.2 : correction des vidéos figées dans Player et PPT depuis la 2.41.1.",
+    "- Player 1.11.3, PPT 1.9.3 : retour au fonctionnement de la 2.41.0 (choix forcé de la carte graphique retiré).",
+    "- Les économies de calcul de la 2.41.1 sont gardées (Timer, Prompteur, Titrage, Infodécor, Rec et Stream)."
   ],
-  "maj": "Lanterne-Spectacle-Mise-a-jour-2.41.1.lanternemaj",
-  "taille": 10083328
+  "maj": "Lanterne-Spectacle-Mise-a-jour-2.41.2.lanternemaj",
+  "taille": 10081895
 }
