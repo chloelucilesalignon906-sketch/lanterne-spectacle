@@ -1,14 +1,13 @@
 {
-  "suite": "2.41.0",
-  "date": "2026-11-25T09:49:21.724Z",
+  "suite": "2.41.1",
+  "date": "2026-11-25T11:13:47.404Z",
   "depuis": "2.24.0",
   "notes": [
-    "Lanterne Spectacle 2.41.0 : une scène par sortie dans Infodécor, débit de l'image envoyée réglable.",
-    "- Infodécor 1.9.0 : chaque sortie peut montrer sa propre scène (« Montre », « Envoyer vers : Sortie 1 / 2 ») ; images par seconde affichées.",
-    "- PPT 1.9.1, Player 1.11.1, Cam 1.6.4, Infodécor : débit de l'image envoyée faible, moyen ou élevé.",
-    "- FDR 1.16.1, Timer 1.2.2 : cues Timer « Afficher l'heure en plein écran » et « Revenir à l'intervenant ».",
-    "- PPT 1.9.1 : transitions Morph plus fluides (diapo suivante préparée à l'avance)."
+    "Lanterne Spectacle 2.41.1 : moins de calcul pour rien, surtout sous Windows.",
+    "- Timer 1.2.3, Prompteur 1.2.2, Titrage 1.5.2, Infodécor 1.9.1, Rec et Stream 1.3.2 : l'image n'est plus redessinée quand rien ne bouge (processeur au repos divisé par 3 à 10).",
+    "- Infodécor : image recomposée au rythme des sources ; Player 1.11.2 : prévisu redessinée seulement quand elle change.",
+    "- Windows, portable à deux cartes graphiques : la plus puissante est utilisée (PPT 1.9.2, Cam 1.6.5…)."
   ],
-  "maj": "Lanterne-Spectacle-Mise-a-jour-2.41.0.lanternemaj",
-  "taille": 10078985
+  "maj": "Lanterne-Spectacle-Mise-a-jour-2.41.1.lanternemaj",
+  "taille": 10083328
 }
