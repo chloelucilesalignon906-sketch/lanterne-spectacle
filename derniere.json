@@ -1,12 +1,13 @@
 {
-  "suite": "2.41.2",
-  "date": "2026-11-25T11:43:23.905Z",
+  "suite": "2.41.3",
+  "date": "2026-11-25T12:37:46.644Z",
   "depuis": "2.24.0",
   "notes": [
-    "Lanterne Spectacle 2.41.2 : correction des vidéos figées dans Player et PPT depuis la 2.41.1.",
-    "- Player 1.11.3, PPT 1.9.3 : retour au fonctionnement de la 2.41.0 (choix forcé de la carte graphique retiré).",
-    "- Les économies de calcul de la 2.41.1 sont gardées (Timer, Prompteur, Titrage, Infodécor, Rec et Stream)."
+    "Lanterne Spectacle 2.41.3 : l'image n'est plus envoyée d'un logiciel à l'autre quand personne ne s'en sert.",
+    "- Player 1.11.4 : image de PPT, Cam ou PPT réseau demandée seulement pour un clip à l'antenne, en prévisu, en couche ou suivant (puis 20 s).",
+    "- Infodécor 1.9.3 : images des autres logiciels demandées seulement pour les scènes à l'image, en aperçu, sur une sortie ou juste après (puis 20 s).",
+    "- FDR 1.16.2 : aperçu de PPT arrêté quand la fenêtre est réduite. PPT ne compresse plus rien quand personne ne demande son image."
   ],
-  "maj": "Lanterne-Spectacle-Mise-a-jour-2.41.2.lanternemaj",
-  "taille": 10081895
+  "maj": "Lanterne-Spectacle-Mise-a-jour-2.41.3.lanternemaj",
+  "taille": 10083137
 }
