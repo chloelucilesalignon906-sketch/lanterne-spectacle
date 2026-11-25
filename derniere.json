@@ -1,11 +1,14 @@
 {
-  "suite": "2.40.3",
-  "date": "2026-11-24T22:17:33.761Z",
+  "suite": "2.41.0",
+  "date": "2026-11-25T09:49:21.724Z",
   "depuis": "2.24.0",
   "notes": [
-    "Lanterne Spectacle 2.40.3 : le point est refait après chaque zoom dans Lanterne Cam.",
-    "- Cam 1.6.3 : à la fin d'un zoom, mise au point « une fois » sur le centre de l'image (case pour l'enlever)."
+    "Lanterne Spectacle 2.41.0 : une scène par sortie dans Infodécor, débit de l'image envoyée réglable.",
+    "- Infodécor 1.9.0 : chaque sortie peut montrer sa propre scène (« Montre », « Envoyer vers : Sortie 1 / 2 ») ; images par seconde affichées.",
+    "- PPT 1.9.1, Player 1.11.1, Cam 1.6.4, Infodécor : débit de l'image envoyée faible, moyen ou élevé.",
+    "- FDR 1.16.1, Timer 1.2.2 : cues Timer « Afficher l'heure en plein écran » et « Revenir à l'intervenant ».",
+    "- PPT 1.9.1 : transitions Morph plus fluides (diapo suivante préparée à l'avance)."
   ],
-  "maj": "Lanterne-Spectacle-Mise-a-jour-2.40.3.lanternemaj",
-  "taille": 10068962
+  "maj": "Lanterne-Spectacle-Mise-a-jour-2.41.0.lanternemaj",
+  "taille": 10078985
 }
