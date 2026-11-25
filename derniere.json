@@ -1,13 +1,12 @@
 {
-  "suite": "2.41.3",
-  "date": "2026-11-25T12:37:46.644Z",
+  "suite": "2.42.0",
+  "date": "2026-11-25T13:31:00.044Z",
   "depuis": "2.24.0",
   "notes": [
-    "Lanterne Spectacle 2.41.3 : l'image n'est plus envoyée d'un logiciel à l'autre quand personne ne s'en sert.",
-    "- Player 1.11.4 : image de PPT, Cam ou PPT réseau demandée seulement pour un clip à l'antenne, en prévisu, en couche ou suivant (puis 20 s).",
-    "- Infodécor 1.9.3 : images des autres logiciels demandées seulement pour les scènes à l'image, en aperçu, sur une sortie ou juste après (puis 20 s).",
-    "- FDR 1.16.2 : aperçu de PPT arrêté quand la fenêtre est réduite. PPT ne compresse plus rien quand personne ne demande son image."
+    "Lanterne Spectacle 2.42.0 : Lanterne PPT peut lire un PowerPoint en « vidéo précalculée ».",
+    "- PPT 1.10.0 : à l'ouverture, choix « Lecture en direct » ou « Vidéo précalculée » (tout le diaporama enregistré en une vidéo avec animations, transitions, Morph et vidéos, une pause à chaque clic ; chaque « Suivant » lit le morceau suivant : le plus fluide).",
+    "- La vidéo est gardée et reprise tout de suite à la prochaine ouverture ; bouton en haut (ou Cmd/Ctrl+Maj+M) pour changer."
   ],
-  "maj": "Lanterne-Spectacle-Mise-a-jour-2.41.3.lanternemaj",
-  "taille": 10083137
+  "maj": "Lanterne-Spectacle-Mise-a-jour-2.42.0.lanternemaj",
+  "taille": 10118233
 }
