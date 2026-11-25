@@ -1,11 +1,12 @@
 {
-  "suite": "2.42.1",
-  "date": "2026-11-25T14:29:33.449Z",
+  "suite": "2.42.2",
+  "date": "2026-11-25T15:35:17.509Z",
   "depuis": "2.24.0",
   "notes": [
-    "Lanterne Spectacle 2.42.1 : correction de la vidéo précalculée de Lanterne PPT.",
-    "- PPT 1.10.1 : plus de flash noir à la fin de chaque morceau de la vidéo précalculée (la dernière image reste affichée pendant que la vidéo se place sur la pause)."
+    "Lanterne Spectacle 2.42.2 : plus de saccades sur la vidéo de Player dans Infodécor.",
+    "- Player 1.11.5 : l'image envoyée à Infodécor ne perd plus d'images (avant : 8 à 10 % des images de la vidéo jetées en route).",
+    "- Infodécor 1.9.4 : 50 ms de réserve pour montrer les images de Player à un rythme régulier ; même correction pour l'image envoyée à Rec et Stream."
   ],
-  "maj": "Lanterne-Spectacle-Mise-a-jour-2.42.1.lanternemaj",
-  "taille": 10118223
+  "maj": "Lanterne-Spectacle-Mise-a-jour-2.42.2.lanternemaj",
+  "taille": 10118647
 }
