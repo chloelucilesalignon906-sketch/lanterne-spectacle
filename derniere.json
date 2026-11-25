@@ -1,12 +1,11 @@
 {
-  "suite": "2.42.0",
-  "date": "2026-11-25T13:31:00.044Z",
+  "suite": "2.42.1",
+  "date": "2026-11-25T14:29:33.449Z",
   "depuis": "2.24.0",
   "notes": [
-    "Lanterne Spectacle 2.42.0 : Lanterne PPT peut lire un PowerPoint en « vidéo précalculée ».",
-    "- PPT 1.10.0 : à l'ouverture, choix « Lecture en direct » ou « Vidéo précalculée » (tout le diaporama enregistré en une vidéo avec animations, transitions, Morph et vidéos, une pause à chaque clic ; chaque « Suivant » lit le morceau suivant : le plus fluide).",
-    "- La vidéo est gardée et reprise tout de suite à la prochaine ouverture ; bouton en haut (ou Cmd/Ctrl+Maj+M) pour changer."
+    "Lanterne Spectacle 2.42.1 : correction de la vidéo précalculée de Lanterne PPT.",
+    "- PPT 1.10.1 : plus de flash noir à la fin de chaque morceau de la vidéo précalculée (la dernière image reste affichée pendant que la vidéo se place sur la pause)."
   ],
-  "maj": "Lanterne-Spectacle-Mise-a-jour-2.42.0.lanternemaj",
-  "taille": 10118233
+  "maj": "Lanterne-Spectacle-Mise-a-jour-2.42.1.lanternemaj",
+  "taille": 10118223
 }
