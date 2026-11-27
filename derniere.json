@@ -1,12 +1,11 @@
 {
-  "suite": "2.45.0",
-  "date": "2026-11-27T12:29:21.474Z",
+  "suite": "2.45.1",
+  "date": "2026-11-27T14:38:27.763Z",
   "depuis": "2.24.0",
   "notes": [
-    "Lanterne Spectacle 2.45.0 : la playlist de Lanterne Son sur deux ordinateurs à la fois.",
-    "- Lanterne Son 1.6.0 : option « Lire la playlist en même temps sur un autre ordinateur » (onglet Playlist) : un ordinateur pilote, l'autre suit, avec le code à 4 chiffres.",
-    "- L'ordinateur qui suit copie une fois les musiques qui lui manquent et joue la même musique au même endroit. Décochée, rien ne passe par le réseau."
+    "Lanterne Spectacle 2.45.1 : le point reste en manuel avec la courbe de Lanterne Cam.",
+    "- Lanterne Cam 1.8.1 : courbe active = point manuel qui suit la courbe, plus d'autofocus après le zoom ni après un preset."
   ],
-  "maj": "Lanterne-Spectacle-Mise-a-jour-2.45.0.lanternemaj",
-  "taille": 10141604
+  "maj": "Lanterne-Spectacle-Mise-a-jour-2.45.1.lanternemaj",
+  "taille": 10141611
 }
