@@ -1,11 +1,12 @@
 {
-  "suite": "2.45.1",
-  "date": "2026-11-27T14:38:27.763Z",
+  "suite": "2.45.2",
+  "date": "2026-11-27T15:07:33.403Z",
   "depuis": "2.24.0",
   "notes": [
-    "Lanterne Spectacle 2.45.1 : le point reste en manuel avec la courbe de Lanterne Cam.",
-    "- Lanterne Cam 1.8.1 : courbe active = point manuel qui suit la courbe, plus d'autofocus après le zoom ni après un preset."
+    "Lanterne Spectacle 2.45.2 : point verrouillé en manuel avec la courbe de Lanterne Cam.",
+    "- Lanterne Cam 1.8.2 : si la caméra se remet d'elle-même en autofocus, Cam la remet en manuel aussitôt (courbe cochée) ; « Auto » demandé exprès coupe la courbe.",
+    "- Lanterne Cam 1.8.2 : pavé tactile de la manette = luminosité AE au choix."
   ],
-  "maj": "Lanterne-Spectacle-Mise-a-jour-2.45.1.lanternemaj",
-  "taille": 10141611
+  "maj": "Lanterne-Spectacle-Mise-a-jour-2.45.2.lanternemaj",
+  "taille": 10142629
 }
