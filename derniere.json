@@ -1,12 +1,11 @@
 {
-  "suite": "2.43.0",
-  "date": "2026-11-27T09:20:49.317Z",
+  "suite": "2.43.1",
+  "date": "2026-11-27T11:56:59.246Z",
   "depuis": "2.24.0",
   "notes": [
-    "Lanterne Spectacle 2.43.0 : Lanterne Cam 1.7.0, courbe de point pour les caméras PTZ.",
-    "- Onglet PTZ › « Courbe de point » : vise la scène et clique sur « Calibrer » ; pendant chaque zoom, le point suit la courbe.",
-    "- Curseur du zoom à la vraie plage de la caméra ; point « turbo » qui marche sur la Tenveo."
+    "Lanterne Spectacle 2.43.1 : image plus nette dans l'Aperçu de Lanterne Cam.",
+    "- Lanterne Cam 1.7.1 : l'Aperçu est calculé en 1920×1080 (avant 960×540 agrandi, flou sur écran Retina)."
   ],
-  "maj": "Lanterne-Spectacle-Mise-a-jour-2.43.0.lanternemaj",
-  "taille": 10123981
+  "maj": "Lanterne-Spectacle-Mise-a-jour-2.43.1.lanternemaj",
+  "taille": 10123844
 }
