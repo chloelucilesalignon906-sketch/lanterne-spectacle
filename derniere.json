@@ -1,12 +1,12 @@
 {
-  "suite": "2.42.2",
-  "date": "2026-11-25T15:35:17.509Z",
+  "suite": "2.43.0",
+  "date": "2026-11-27T09:20:49.317Z",
   "depuis": "2.24.0",
   "notes": [
-    "Lanterne Spectacle 2.42.2 : plus de saccades sur la vidéo de Player dans Infodécor.",
-    "- Player 1.11.5 : l'image envoyée à Infodécor ne perd plus d'images (avant : 8 à 10 % des images de la vidéo jetées en route).",
-    "- Infodécor 1.9.4 : 50 ms de réserve pour montrer les images de Player à un rythme régulier ; même correction pour l'image envoyée à Rec et Stream."
+    "Lanterne Spectacle 2.43.0 : Lanterne Cam 1.7.0, courbe de point pour les caméras PTZ.",
+    "- Onglet PTZ › « Courbe de point » : vise la scène et clique sur « Calibrer » ; pendant chaque zoom, le point suit la courbe.",
+    "- Curseur du zoom à la vraie plage de la caméra ; point « turbo » qui marche sur la Tenveo."
   ],
-  "maj": "Lanterne-Spectacle-Mise-a-jour-2.42.2.lanternemaj",
-  "taille": 10118647
+  "maj": "Lanterne-Spectacle-Mise-a-jour-2.43.0.lanternemaj",
+  "taille": 10123981
 }
